@@ -23,3 +23,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrahul3836&show_icons=true&locale=en" alt="imrahul3836" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrahul3836&" alt="imrahul3836" /></p>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
